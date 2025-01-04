@@ -8,11 +8,38 @@ I'm a seasoned **Engineering Lead** with over **15+ years of experience** in sof
 
 ### 🛠️ Technical Skills
 
+![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=ai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LLaMA](https://img.shields.io/badge/Meta_LLaMA-0088CC?style=for-the-badge&logo=meta&logoColor=white)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![SRE & DevOps](https://img.shields.io/badge/SRE_&_DevOps-000000?style=for-the-badge&logo=devops&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![Buildkite](https://img.shields.io/badge/Buildkite-14CC80?style=for-the-badge&logo=buildkite&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![E2E Testing](https://img.shields.io/badge/E2E_Testing-000000?style=for-the-badge&logo=testing-library&logoColor=white)
+![W3C](https://img.shields.io/badge/W3C-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Accessibility-000000?style=for-the-badge&logo=accessibility&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-000000?style=for-the-badge&logo=seo&logoColor=white)
+![Analytics and Reporting](https://img.shields.io/badge/Analytics_and_Reporting-000000?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+
 
 #### **Languages & Frameworks**
 - **Front-End**: React, JavaScript, TypeScript, HTML5, CSS3
