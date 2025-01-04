@@ -119,6 +119,12 @@ I'm a seasoned **Engineering Lead** with over **15+ years of experience** in sof
 
 ### 📊 GitHub Stats
 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishna2nd/krishna2nd/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishna2nd/krishna2nd/refs/heads/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid src="https://raw.githubusercontent.com/krishna2nd/krishna2nd/refs/heads/output/github-contribution-grid-snake.svg">
+</picture> 
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna2nd&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna2nd&layout=compact&theme=radical)
@@ -128,5 +134,3 @@ I'm a seasoned **Engineering Lead** with over **15+ years of experience** in sof
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=krishna2nd&theme=radical&no-frame=true&row=2&column=4)
 
 ---
-
-![](https://raw.githubusercontent.com/krishna2nd/krishna2nd/output/github-contribution-grid-snake.svg)
