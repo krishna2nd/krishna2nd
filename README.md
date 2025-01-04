@@ -158,11 +158,14 @@ I'm a seasoned **Engineering Lead** with over **15+ years of experience** in sof
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=krishna2nd&theme=radical&no-frame=true&row=2&column=4)
 
+
+<!--
 ---
 
 ### Leetcode 
 
-<!-- ![ Stats](https://leetcode-status.vercel.app/api/graph/krishna2nd?theme=dark&hide_title=false&custom_title=)  -->
+ ![ Stats](https://leetcode-status.vercel.app/api/graph/krishna2nd?theme=dark&hide_title=false&custom_title=)  -->
+<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/krishna2nd?theme=radical&font=Open%20Sans&ext=heatmap) -->
 
 ---
 
