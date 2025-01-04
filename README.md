@@ -7,11 +7,9 @@ I'm a seasoned **Engineering Lead** with over **15+ years of experience** in sof
 ---
 
 ### 🛠️ Technical Skills
-
-![LLM](https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=ai&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/Meta_LLaMA-0088CC?style=for-the-badge&logo=meta&logoColor=white)
