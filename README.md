@@ -101,13 +101,13 @@ I'm a seasoned **Engineering Lead** with over **15+ years of experience** in sof
 
 ### 💻 Projects
 
-#### **Microsoft Teams & SharePoint**
+#### **Microsoft Teams & Office 365**
 - Implemented policy features for **Microsoft Teams** client and admin center.
-- Developed customizable widgets and components for **SharePoint** search.
+- Developed customizable widgets and components for **Office 365** search.
 
 #### **Walmart Mexico E-Commerce**
 - Migrated Walmart Mexico website to a modern tech stack, improving performance by **40%**.
-- Created a Golang proxy microservice for routing orders, improving website performance by **30%**.
+- Created a Node.js proxy microservice for routing orders, improving website performance by **30%**.
 
 #### **Saltside Classified Ads**
 - Migrated the website to **React** and **Server-Side Rendering (SSR)**.
@@ -137,7 +137,7 @@ I'm a seasoned **Engineering Lead** with over **15+ years of experience** in sof
 ### 🌟 Fun Facts
 
 - 🎮 I love playing video games in my free time.
-- 🎸 I’m a hobbyist chess player.
+- ♔ I’m a hobbyist chess player.
 - 🌍 I’m passionate about open-source contributions.
 
 ---
