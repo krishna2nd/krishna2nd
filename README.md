@@ -92,7 +92,6 @@ I'm a seasoned **Engineering Lead** with over **15+ years of experience** in sof
 
 ### 🏆 Achievements
 
-- **Hackathon Award**: Created the **Tesseract** tool for one-click team settings.
 - **Best Web Developer**: Recognized at **Saltside Technologies**.
 - **Best Employee Award**: Honored at **One.Com**.
 - **CRR1 Rating**: Consistently Remarkable Performer at **Infosys**.
