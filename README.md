@@ -137,7 +137,7 @@ I'm a seasoned **Engineering Lead** with over **15+ years of experience** in sof
 ### 🌟 Fun Facts
 
 - 🎮 I love playing video games in my free time.
-- ♔ I’m a hobbyist chess player.
+- ♔  I’m a hobbyist chess player.
 - 🌍 I’m passionate about open-source contributions.
 
 ---
