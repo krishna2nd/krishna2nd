@@ -78,15 +78,6 @@ I'm a seasoned **Engineering Lead** with over **15+ years of experience** in sof
 - Implemented self-service backup and restore services, reducing customer support time by **20%**.
 - Managed a large infrastructure of **8000+ servers** and virtual containers.
 
-#### **Freelance Software Architect & Developer**
-**Freelance** • December 2009 - May 2012  
-- Developed an Android and web app for **Kollam City Police** for real-time incident tracking.
-- Created a virtual exam registration system using Google Maps for **Infosys Education and Research**.
-
-#### **System Engineer**
-**Infosys Technologies Ltd** • August 2006 - November 2009  
-- Contributed to **Microsoft Windows SE** projects as a vendor web developer.
-- Recognized as a **Windows Scripting Champion** and conducted training sessions.
 
 ---
 
